@@ -1,7 +1,7 @@
 pipelines:
   MyPipeline:
-    - 12345
-    - service-001
+    - "12345"
+    - "service-001"
   AnotherPipeline:
-    - abcd
-    - xyz-789
+    - "abcd"
+    - "xyz-789"
