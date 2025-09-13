@@ -1,4 +1,3 @@
-pipelines:
-  MyPipeline:
-    - "Leap2"        # repo name from Repo B
-    - "AnotherRepo"
+exceptions:
+  - Leap2
+  - AnotherRepo
