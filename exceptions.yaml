@@ -1,6 +1,6 @@
 exceptions:
   global:
-    sonar-skip: true
+    sonar-skip: false
     checkmarx-skip: true
 
   sonar:
