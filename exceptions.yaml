@@ -8,5 +8,5 @@ exceptions:
     - AnotherOrg/RepoX
 
   checkmarx:
-    - Leap-stream/Leap3
+    - Leap-stream/Leap2
     - AnotherOrg/RepoY
