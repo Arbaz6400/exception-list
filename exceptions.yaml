@@ -1,7 +1,7 @@
 exceptions:
   global:
     sonar-skip: false
-    checkmarx-skip: true
+    checkmarx-skip: false
 
   sonar:
     - Leap-stream/Leap3
