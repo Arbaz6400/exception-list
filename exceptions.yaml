@@ -1,7 +1,7 @@
 exceptions:
   sonar:
-    - Leap-stream/Leap2
+    - Leap-stream/Leap
     - AnotherOrg/RepoX
   checkmarx:
-    - Leap-stream/Leap3
+    - Leap-stream/Leap2
     - AnotherOrg/RepoY
