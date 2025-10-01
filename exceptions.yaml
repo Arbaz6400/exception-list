@@ -4,7 +4,7 @@ exceptions:
     checkmarx-skip: false
 
   sonar:
-    - Leap-stream/Leap3
+    - Leap-stream/Leap2
     - AnotherOrg/RepoX
 
   checkmarx:
